@@ -1,6 +1,6 @@
 # SmithScraper
 
-SmithScrape is a Python project designed to scrape data from the American History section of the Smithsonian website. It uses Beautiful Soup to extract information and save it in a CSV file. The project also includes a proxy checker to verify if a proxy is being used and if it is working.
+SmithScraper is a Python project designed to scrape data from the American History section of the Smithsonian website. It uses Beautiful Soup to extract information and save it in a CSV file. The project also includes a proxy checker to verify if a proxy is being used and if it is working.
 
 ## Features
 
