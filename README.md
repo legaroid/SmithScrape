@@ -1,4 +1,4 @@
-# SmithScrape
+# SmithScraper
 
 SmithScrape is a Python project designed to scrape data from the American History section of the Smithsonian website. It uses Beautiful Soup to extract information and save it in a CSV file. The project also includes a proxy checker to verify if a proxy is being used and if it is working.
 
@@ -12,7 +12,7 @@ SmithScrape is a Python project designed to scrape data from the American Histor
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/legaroid/SmithScrape.git
+    git clone https://github.com/legaroid/SmithScraper.git
     cd SmithScrape
     ```
 
